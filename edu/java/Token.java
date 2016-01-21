@@ -1,4 +1,4 @@
-package edu.binghamton.cs571;
+package edu.java;
 
 /** A simple struct representing a token produced by the scanner */
 public class Token {

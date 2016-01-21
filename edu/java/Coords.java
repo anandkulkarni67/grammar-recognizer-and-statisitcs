@@ -1,4 +1,4 @@
-package edu.binghamton.cs571;
+package edu.java;
 
 /** A simple struct used to specify the coordinates within a file */
 public class Coords {

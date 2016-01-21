@@ -1,4 +1,4 @@
-package edu.binghamton.cs571;
+package edu.java;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
